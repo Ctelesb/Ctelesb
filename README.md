@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Clara 👋
+# Olá, eu sou Clara Teles 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedora em formação, com interesse em **Desenvolvimento de Software, Backend e Análise de Dados**.
 

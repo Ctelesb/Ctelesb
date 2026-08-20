@@ -119,7 +119,6 @@ Quero aplicar meus conhecimentos em projetos reais, aprender com profissionais d
 
 ---
 
-## 📈 GitHub Stats
 
 <div align="center">
 

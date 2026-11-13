@@ -21,7 +21,7 @@ Aplicação web que lê o extrato do banco (CSV ou OFX) e responde: quanto sobro
 
 **Tecnologias:** Python, Streamlit, Pandas, Plotly, ReportLab e pytest.
 
-[Ver o app](https://finance-insights-dashboard-telescode.streamlit.app/) · [Ver o código](https://github.com/Ctelesb/Finance-insights-dashboard)
+[Ver o app](https://finance-insights-dashboard-telescode-4.streamlit.app/) · [Ver o código](https://github.com/Ctelesb/Finance-insights-dashboard)
 
 ---
 

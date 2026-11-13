@@ -1,10 +1,10 @@
 # Clara Teles
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em **backend** e **análise de dados**. Gosto de construir projetos que funcionam de ponta a ponta: da leitura dos dados à interface, com a lógica separada e testada.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em **full stack** e **análise de dados**. Gosto de construir projetos que funcionam de ponta a ponta: da leitura dos dados à interface, com a lógica separada e testada.
 
 Estou buscando meu primeiro **estágio em tecnologia**, em desenvolvimento de software, backend ou dados.
 
-[LinkedIn](https://www.linkedin.com/in/clara-teles-128a1537a) · [Finance Insights no ar](https://finance-insights-dashboard-telescode.streamlit.app/)
+[LinkedIn](https://www.linkedin.com/in/clara-teles-128a1537a) · [Finance Insights no ar](https://finance-insights-dashboard-telescode-4.streamlit.app/)
 
 ---
 
